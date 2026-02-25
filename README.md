@@ -55,7 +55,7 @@ Voir la [**documentation complète**](./docs/README.md) pour plus de détails.
 ## 📂 Structure du projet
 
 ```
-cinetrack2/
+cinetrack/
 ├── App.js              # Composant principal
 ├── app.json            # Configuration Expo
 ├── index.js            # Point d'entrée
