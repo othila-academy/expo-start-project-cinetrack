@@ -61,7 +61,6 @@ cinetrack/
 ├── index.js            # Point d'entrée
 ├── docs/
 │   ├── index.html      # Maquettes interactives GitHub Pages
-│   ├── CineTrack_Maquettes.html
 │   └── README.md       # Documentation
 └── assets/             # Images et ressources
 ```
