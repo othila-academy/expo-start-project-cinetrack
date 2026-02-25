@@ -6,7 +6,7 @@ Application **React Native** (Expo) de découverte et suivi de films avec **IA e
 
 La documentation interactive avec les maquettes est disponible sur **GitHub Pages** :
 
-### 👉 [**Consulter les maquettes et le roadmap**](https://quentinncl.github.io/expo-start-project-cinetrack/)
+### 👉 [**Consulter les maquettes et le roadmap**](https://othila-academy.github.io/expo-start-project-cinetrack/)
 
 ## ✨ Fonctionnalités principales
 
@@ -72,4 +72,4 @@ Projet étudiant — L3 React Native, Université
 
 ---
 
-**💡 Conseil** — Consultez d'abord les [**maquettes interactives**](https://quentinncl.github.io/expo-start-project-cinetrack/) pour comprendre l'architecture et l'UX.
+**💡 Conseil** — Consultez d'abord les [**maquettes interactives**](https://othila-academy.github.io/expo-start-project-cinetrack/) pour comprendre l'architecture et l'UX.
